@@ -1,23 +1,23 @@
-# The Midjourney Web App
+# The madjourney Web App
 
-* [Using the Web App](web-app.md#using-the-web-app)
-  * [Where Is It?](web-app.md#where-is-it)
-  * [The Nav Bar](web-app.md#the-nav-bar)
-  * [Using Your Gallery](web-app.md#using-your-gallery)
-  * [Archive Timeline View](web-app.md#archive-timeline-view)
-  * [Deleting Your Own Images](web-app.md#deleting-your-own-images)
-  * [What's the Feed?](web-app.md#whats-the-feed)
-  * [Image LeaderBoards and Rating](web-app.md#image-leaderboards-and-rating)
-  * [The Map](web-app.md#the-map)
-  * [Following People's Work](web-app.md#following-peoples-work)
-  * [Viewing Great Images!](web-app.md#viewing-great-images)
-  * [Dictionary](web-app.md#dictionary)
-  * [Styles and Artists](web-app.md#styles-and-artists)
-  * [Account and Subscription Settings](web-app.md#account-and-subscription-settings)
+- [Using the Web App](web-app.md#using-the-web-app)
+  - [Where Is It?](web-app.md#where-is-it)
+  - [The Nav Bar](web-app.md#the-nav-bar)
+  - [Using Your Gallery](web-app.md#using-your-gallery)
+  - [Archive Timeline View](web-app.md#archive-timeline-view)
+  - [Deleting Your Own Images](web-app.md#deleting-your-own-images)
+  - [What's the Feed?](web-app.md#whats-the-feed)
+  - [Image LeaderBoards and Rating](web-app.md#image-leaderboards-and-rating)
+  - [The Map](web-app.md#the-map)
+  - [Following People's Work](web-app.md#following-peoples-work)
+  - [Viewing Great Images!](web-app.md#viewing-great-images)
+  - [Dictionary](web-app.md#dictionary)
+  - [Styles and Artists](web-app.md#styles-and-artists)
+  - [Account and Subscription Settings](web-app.md#account-and-subscription-settings)
 
 ## Where Is It?
 
-If you are a subscriber, you can access it (logged in with Discord credentials) at [midjourney.com/app](https://www.midjourney.com/app/).
+If you are a subscriber, you can access it (logged in with Discord credentials) at [madjourney.com/app](https://www.midjourney.com/app/).
 
 ## The Nav Bar
 
